@@ -19,5 +19,6 @@ count may decrease at a slower rate or not at all.
 7. Identify Edge cases.
 
 Hypothesis:
-	
+	The algorithm is based on the previous days activity using
+consecutive
 
