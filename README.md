@@ -1,6 +1,4 @@
-# The purpose of this project is to import my Garmin Fitness Data, Parse the
-.FIT file type and then figure out how the dynamic step count goal is
-calculated.
+# The purpose of this project is to import my Garmin Fitness Data, Parse the .FIT file type and then figure out how the dynamic step count goal is calculated.
 
 Hyothesis:
 The step count is calculated using a rolling average using n previous days to
